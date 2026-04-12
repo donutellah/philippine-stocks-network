@@ -1,4 +1,4 @@
-# 📈 Topological Stability and Systemic Fragility of the Philippine Equity Market
+# Topological Stability and Systemic Fragility of the Philippine Equity Market
 
 > **Graph Gang** — BSM CS3B | College of Science, Bulacan State University
 >
