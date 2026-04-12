@@ -172,7 +172,7 @@ Connected components increase from **14 → 17**, confirming structural fragilit
 
 ---
 
-## 📊 Key Results
+## Key Results
 
 | Metric | Value |
 |---|---|
