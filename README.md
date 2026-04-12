@@ -22,50 +22,36 @@ We then analyze the network's structure to identify **hub stocks**, **fragile co
 ## 🗂️ Repository Structure
 
 psei-graph-analysis/
-│
 ├── data/
 │   ├── raw/
-│   │   └── psei_closing_prices.csv       # Raw daily closing prices (2023–2025)
+│   │   └── .gitkeep
 │   └── processed/
-│       ├── log_returns.csv               # Computed log returns
-│       ├── correlation_matrix.csv        # Pearson correlation matrix
-│       └── distance_matrix.csv           # Transformed distance matrix
-│
+│       └── .gitkeep
 ├── notebooks/
-│   ├── 01_data_collection.ipynb          # Data download and cleaning
-│   ├── 02_correlation_distance.ipynb     # Log returns, correlation, distance
-│   ├── 03_graph_construction.ipynb       # Graph building + threshold filtering
-│   ├── 04_mst_knn.ipynb                  # MST and KNN graph construction
-│   ├── 05_centrality_community.ipynb     # Centrality metrics + Louvain detection
-│   └── 06_hub_removal_analysis.ipynb     # Hub removal experiment (ALI, SMPH, URC)
-│
+│   ├── PSEi_Graph_Analysis_draft.ipynb
+│   ├── philippine_stocks_network_analysis_draft.ipynb
+│   └── PSEi_Graph_Analysis_MAT305.ipynb
 ├── src/
-│   ├── data_loader.py                    # Functions to load and clean price data
-│   ├── returns.py                        # Log return computation
-│   ├── correlation.py                    # Pearson correlation and distance matrix
-│   ├── graph_builder.py                  # Graph construction and threshold filtering
-│   ├── mst.py                            # Minimum Spanning Tree construction
-│   ├── knn_graph.py                      # k-Nearest Neighbor graph construction
-│   ├── centrality.py                     # Degree, betweenness, eigenvector centrality
-│   ├── community.py                      # Louvain community detection
-│   ├── hub_removal.py                    # Hub removal simulation
-│   └── visualizer.py                     # All plotting and visualization functions
-│
+│   ├── __init__.py
+│   ├── data_loader.py
+│   ├── returns.py
+│   ├── correlation.py
+│   ├── graph_builder.py
+│   ├── mst.py
+│   ├── knn_graph.py
+│   ├── centrality.py
+│   ├── community.py
+│   ├── hub_removal.py
+│   └── visualizer.py
 ├── outputs/
 │   ├── figures/
-│   │   ├── heatmap_distance_matrix.png   # Figure 1: Distance matrix heatmap
-│   │   ├── mst_knn_comparison.png        # Figure 2: MST vs KNN graph
-│   │   ├── topological_map.png           # Figure 3: Full PSEi network map
-│   │   └── hub_removal_network.png       # Figure 4: Network after hub removal
+│   │   └── .gitkeep
 │   └── results/
-│       ├── centrality_scores.csv         # Centrality metrics per stock
-│       └── community_assignments.csv     # Louvain community labels per stock
-│
-├── requirements.txt                      # Python dependencies
-├── .gitignore                            # Files to exclude from version control
-└── README.md                             # This file
-```
-
+│       └── .gitkeep
+├── main.py
+├── requirements.txt
+├── .gitignore
+└── README.md
 ---
 
 ## ⚙️ How to Run
