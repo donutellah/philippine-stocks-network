@@ -22,7 +22,7 @@ We then analyze the network's structure to identify **hub stocks**, **fragile co
 ## 🗂️ Repository Structure
 
 ```
-psei-graph-analysis/
+philippine-stocks-network/
 ├── data/
 │   ├── raw/
 │   │   └── .gitkeep
