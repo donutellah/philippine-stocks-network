@@ -205,7 +205,14 @@ LTG, TEL, URC, PGOLD, EMI, GTCAP, CNPF, AREIT, CNVRG, MONDE
 ```
 ---
 
-## Authors
+### Authors
+| Name | Role |
+| :--- | :--- |
+| Ellah D. Benerado | Member |
+| Niña Mycaella Fedalquin | Member |
+| Ryan Jerick Peñafiel | Member |
+| Carl Gaudenz Nuqui | Member |
+| Angel Lorraine Viray | Member |
 
 ---
 
