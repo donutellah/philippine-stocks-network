@@ -100,7 +100,6 @@ All dependencies are listed in `requirements.txt`. Key libraries:
 |---|---|
 | `pandas` | Data loading and manipulation |
 | `numpy` | Numerical computation |
-| `yfinance` | Downloading PSEi stock price data |
 | `scipy` | Pearson correlation computation |
 | `networkx` | Graph construction and analysis |
 | `matplotlib` | Plotting and visualization |
