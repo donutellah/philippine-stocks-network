@@ -21,6 +21,7 @@ We then analyze the network's structure to identify **hub stocks**, **fragile co
 
 ## 🗂️ Repository Structure
 
+```
 psei-graph-analysis/
 ├── data/
 │   ├── raw/
@@ -52,8 +53,7 @@ psei-graph-analysis/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
----
-
+```
 ## ⚙️ How to Run
 
 ### 1. Clone the repository
