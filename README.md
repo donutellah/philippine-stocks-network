@@ -2,6 +2,9 @@
 
 > **Graph Gang** — BSM CS3B | College of Science, Bulacan State University
 >
+> **Course:** MAT305 — Mathematical Modeling FCO
+> **Instructor:** Aarhus M. Dela Cruz, LPT, MSc
+>
 > Ellah Benerado · Niña Mycaella Fedalquin · Ryan Jerick Peñafiel · Carl Nuqui · Angel Viray
 
 ---
