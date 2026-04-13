@@ -4,7 +4,7 @@
 > 
 > **Instructor:** Aarhus M. Dela Cruz, LPT, MSc
 >
-> Ellah Benerado · Niña Mycaella Fedalquin · Ryan Jerick Peñafiel · Carl Nuqui · Angel Viray
+> **By:** Ellah Benerado · Niña Mycaella Fedalquin · Ryan Jerick Peñafiel · Carl Nuqui · Angel Viray
 
 ---
 
